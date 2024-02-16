@@ -8,6 +8,7 @@
                 <li><a href="https://livingtoroam.com/">Website</a></li>
                 <li><a href="https://www.linkedin.com/in/maggie-stara/?original_referer=https%3A%2F%2Fwww.udemy.com%2F">Linkedin</a></li>
                 <li><a href="https://www.youtube.com/@Maggie-Stara">Youtube</a></li>
+                <li><a href="https://github.com/JorgeMongelos/digital-marketing-strategies-profitable-sales-funnel-mastery/blob/main/Course%2BGuide%2B-%2BSales%2BFunnel%2BMastery.pdf">Study Guide</a></li>  
             </ul>
         </td>
     </tr>
@@ -22,9 +23,9 @@
         <td>
             <ul>
                 <li>2/15/2024</li>
-                <li>2//2024</li>
-                <li>2//2024</li>
-                <li>2//2024</li>
+                <li>2/15/2024</li>
+                <li>2/16/2024</li>
+                <li>2/16/2024</li>
             </ul>
         </td>
     </tr>
