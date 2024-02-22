@@ -18,6 +18,17 @@
 ![Maggie Stara Bio](./images/maggie-stara-2.png)
 
 <table>
+<tr>
+        <td>Pomodoro</td>
+        <td>
+            <ul>
+                <li>2/20/2024(2)</li>
+                <li>2//2024</li>
+                <li>2//2024</li>
+                <li>2//2024</li>
+            </ul>
+        </td>
+    </tr>
     <tr>
         <td>Pomodoro</td>
         <td>
@@ -25,7 +36,7 @@
                 <li>2/20/2024</li>
                 <li>2/20/2024</li>
                 <li>2/20/2024</li>
-                <li>2//2024</li>
+                <li>2/20/2024</li>
             </ul>
         </td>
     </tr>
